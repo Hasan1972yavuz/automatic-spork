@@ -1,12 +1,13 @@
-# automatic-spork
-# First Machine-Checked Proofs of FIPS 203 & 206 in Lean 4
+## Zitierung
 
-**Paper**: [pqc_lean4_verified.pdf](pqc_lean4_verified.pdf)  
-**Lean 4**: [lakefile.lean](lakefile.lean)
-
-**Abstract**:  
-First **complete machine-checked proofs** of **ML-KEM-1024** (IND-CCA2) and **Falcon-1024** (EUF-CMA) in **Lean 4**, verified in `mathlib`.
-
-**DOI**: coming soon via Zenodo
-
-#PQC #Lean4 #Crypto
+```bibtex
+@software{yavuz_2025_pqc_lean4,
+  author       = {Hasan Yavuz},
+  title        = {First Machine-Checked Proofs of FIPS 203 ML-KEM-1024 \\& FIPS 206 Falcon-1024 in Lean 4},
+  month        = nov,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1},
+  doi          = {10.5281/zenodo.17596596},
+  url          = {https://doi.org/10.5281/zenodo.17596596}
+}
